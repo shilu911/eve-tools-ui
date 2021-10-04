@@ -1,0 +1,21 @@
+{
+  "ShipQuotes": {
+    "title": "舰船估价",
+    "table": {
+      "name": "名字",
+      "buildCost": "制造费用",
+      "buildTime": "制造时间(秒)",
+      "mineCost": "矿物成本",
+      "planetaryResourceCost": "星星产物成本",
+      "blueprintCost": "蓝图成本",
+      "group": "类型",
+      "techLevel": "科技等级",
+      "quotes": "报价",
+      "note": "备注",
+      "missingBuildCost": "缺少制造费用",
+      "missingMineCost": "缺少矿物成本",
+      "missingPr": "缺少行星产物成本",
+      "missingBPCost": "缺少蓝图成本"
+    }
+  }
+}
