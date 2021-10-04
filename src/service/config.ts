@@ -1,1 +1,1 @@
-export const API_URL_BASE = "https://68.183.196.244:8080";
+export const API_URL_BASE = "https://eve-echoes.lushidea.com:8080";
